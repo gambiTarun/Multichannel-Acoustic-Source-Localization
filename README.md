@@ -1,7 +1,7 @@
 # Multichannel Acoustic Source Localization
 
 This repository contains code to implement and evaluate various algorithms for localizing multiple acoustic sources using recordings from a microphone array. 
-Please refer the [Report](https://github.com/gambiTarun/Multichannel-Acoustic-Source-Localization/blob/main/Report.pdf) for more information.
+Please refer the [Report](https://github.com/gambiTarun/Multichannel-Acoustic-Source-Localization/blob/main/Report.pdf) for detailed information.
 
 ## Problem Statement
 
